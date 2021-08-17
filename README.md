@@ -1,1 +1,4 @@
 # database 
+azure
+wordpress
+hostgator
