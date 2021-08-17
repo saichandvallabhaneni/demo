@@ -28,28 +28,9 @@ INSERT INTO seller(seller_id,seller_name,volume,marketprice,purchasingprice,comp
 
 
 
-NSERT INTO buyer(buyer_id,buyer_name,volume,marketprice,purchasingprice,companycode,companyname)VALUES(1,'yogesh',1200,2506,5026,'TECH','Tech Mahindra');
-INSERT INTO buyer(buyer_id,buyer_name,volume,marketprice,purchasingprice,companycode,companyname)VALUES(2,'sarga',1769,5496,7896,'POWERGRID','Power Grid');
-INSERT INTO buyer(buyer_id,buyer_name,volume,marketprice,purchasingprice,companycode,companyname)VALUES(3,'shristi',500,1369,4125,'TATAMOTORS','Tata Motors');
-INSERT INTO buyer(buyer_id,buyer_name,volume,marketprice,purchasingprice,companycode,companyname)VALUES(4,'vamshi',1651,3600,4200,'LT','Larsen and Turbo');
-INSERT INTO buyer(buyer_id,buyer_name,volume,marketprice,purchasingprice,companycode,companyname)VALUES(5,'saichand',2136,4501,5746,'HINDALCO','Hindalco Ltd');
-INSERT INTO buyer(buyer_id,buyer_name,volume,marketprice,purchasingprice,companycode,companyname)VALUES(6,'pallav',800,6125,8516,'COALINDIA','Coal India');
-INSERT INTO buyer(buyer_id,buyer_name,volume,marketprice,purchasingprice,companycode,companyname)VALUES(7,'mohit',1200,4213,7845,'HCLTECH','HCL Technologies');
-INSERT INTO buyer(buyer_id,buyer_name,volume,marketprice,purchasingprice,companycode,companyname)VALUES(8,'sai varun',2000,4000,6000,'UPL','United Phosphorus Ltd');
-INSERT INTO buyer(buyer_id,buyer_name,volume,marketprice,purchasingprice,companycode,companyname)VALUES(9,'chandu',4000,8000,12000,'BAJAJ-AUTO','Bajaj Auto');
-INSERT INTO buyer(buyer_id,buyer_name,volume,marketprice,purchasingprice,companycode,companyname)VALUES(10,'Akash',1850,28500,38500,'SHREECEM','Shree Cements');
 
 
 
-                                                                   seller
-INSERT INTO seller(seller_id,seller_name,volume,marketprice,purchasingprice,companycode,companyname)VALUES(101,'pardhu',1230,4520,8510,'TECH','Tech Mahindra');
-INSERT INTO seller(seller_id,seller_name,volume,marketprice,purchasingprice,companycode,companyname)VALUES(102,'stefen',2563,4510,8450,'POWERGRID','Power Grid');
-INSERT INTO seller(seller_id,seller_name,volume,marketprice,purchasingprice,companycode,companyname)VALUES(103,'sivaram',3100,4500,6530,'TATAMOTORS','Tata Motors');
-INSERT INTO seller(seller_id,seller_name,volume,marketprice,purchasingprice,companycode,companyname)VALUES(104,'mandeep',1456,6325,9652,'LT','Larsen and Turbo');
-INSERT INTO seller(seller_id,seller_name,volume,marketprice,purchasingprice,companycode,companyname)VALUES(105,'saichand',4251,7512,6985,'HINDALCO','Hindalco Ltd');
-INSERT INTO seller(seller_id,seller_name,volume,marketprice,purchasingprice,companycode,companyname)VALUES(106,'kumar',1278,5230,7560,'COALINDIA','Coal India');
+
+                                                                  middlemen
 INSERT INTO seller(seller_id,seller_name,volume,marketprice,purchasingprice,companycode,companyname)VALUES(107,'krishna',1020,6320,12000,'HCLTECH','HCL Technologies');
-INSERT INTO seller(seller_id,seller_name,volume,marketprice,purchasingprice,companycode,companyname)VALUES(108,'mahesh',1451,3621,3945,'UPL','United Phosphorus Ltd');
-INSERT INTO seller(seller_id,seller_name,volume,marketprice,purchasingprice,companycode,companyname)VALUES(109,'nani',2136,4126,6321,'BAJAJ-AUTO','Bajaj Auto');
-
-
